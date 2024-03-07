@@ -6,6 +6,7 @@ implementation of pascal  triangle with python
 
 
 def pascal_triangle(n):
+    """generate a list of lists with pascal triangle"""
     if n <= 0:
         return []
     triangle = [[1]]
