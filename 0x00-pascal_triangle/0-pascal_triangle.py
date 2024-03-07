@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-implementation of pascal triangle with python
+implementation of pascal  triangle with python
 """
 
 
